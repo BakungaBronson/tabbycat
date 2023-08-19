@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-07-05 07:37+1000\n"
-"PO-Revision-Date: 2023-07-04 21:48\n"
+"PO-Revision-Date: 2023-08-19 08:24\n"
 "Last-Translator: \n"
 "Language-Team: Japanese\n"
 "Language: ja_JP\n"
@@ -133,7 +133,7 @@ msgstr ""
 
 #: importer/forms.py
 msgid "Rating"
-msgstr ""
+msgstr "評価"
 
 #: importer/forms.py
 #, python-format
@@ -179,12 +179,12 @@ msgstr ""
 
 #: importer/templates/archive_export_index.html
 msgid "Export all data"
-msgstr ""
+msgstr "全てのデータをエクスポート"
 
 #: importer/templates/archive_importer.html
 msgctxt "page title"
 msgid "Import Tournament Archive"
-msgstr ""
+msgstr "トーナメントのアーカイブをインポート"
 
 #: importer/templates/archive_importer.html
 msgid "This form will create a tournament with the data provided as a Debate XML format."
@@ -192,7 +192,7 @@ msgstr ""
 
 #: importer/templates/archive_importer.html
 msgid "Import"
-msgstr ""
+msgstr "インポート"
 
 #: importer/templates/archive_importer.html
 msgid "Go back to the site home page"
@@ -202,7 +202,7 @@ msgstr ""
 #: importer/templates/simple_import_adjudicators_numbers.html
 msgctxt "page title"
 msgid "Add Adjudicators"
-msgstr ""
+msgstr "ジャッジを追加"
 
 #: importer/templates/simple_import_adjudicators_details.html
 #: importer/templates/simple_import_adjudicators_numbers.html
@@ -353,7 +353,7 @@ msgstr ""
 
 #: importer/templates/simple_import_teams_details.html
 msgid "Save All Teams"
-msgstr ""
+msgstr "すべてのチームを保存"
 
 #: importer/templates/simple_import_teams_numbers.html
 #, python-format
