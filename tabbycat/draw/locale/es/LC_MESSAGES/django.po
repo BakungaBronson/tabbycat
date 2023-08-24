@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-07-05 07:37+1000\n"
-"PO-Revision-Date: 2023-08-24 08:46\n"
+"PO-Revision-Date: 2023-08-24 11:53\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -192,7 +192,7 @@ msgstr "ronda"
 
 #: draw/models.py
 msgid "room"
-msgstr ""
+msgstr "sala"
 
 #: draw/models.py
 msgid "bracket"
@@ -224,7 +224,7 @@ msgstr "debate"
 
 #: draw/models.py
 msgid "debates"
-msgstr ""
+msgstr "debates"
 
 #. Translators: This is appended to a list of teams, e.g. "Auckland
 #. 1, Vic Wellington 1 (sides not confirmed)". Mind the leading
