@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-07-05 07:37+1000\n"
-"PO-Revision-Date: 2023-07-04 21:43\n"
+"PO-Revision-Date: 2023-08-24 08:46\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -220,7 +220,7 @@ msgstr "Si no está chequeado, los lados asignados a los equipos en este debate 
 
 #: draw/models.py
 msgid "debate"
-msgstr ""
+msgstr "debate"
 
 #: draw/models.py
 msgid "debates"
